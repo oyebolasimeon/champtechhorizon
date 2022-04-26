@@ -1,0 +1,286 @@
+@media(max-width:1024px){
+}
+@media(max-width:992px){
+    .sm-padding{
+        padding:15px
+    }
+    .header-section .navbar-brand{
+        height:80px;
+        padding:0;
+        display:flex;
+        align-items:center
+    }
+    .menu-btn,.js #mainmenu{
+        display:none
+    }
+    .about-promo{
+        padding-left:0
+    }
+    .project-2 .project-item,.js .slicknav_menu{
+        display:block
+    }
+    .error-content .error-info{
+        padding-left:10px
+    }
+    .counter-content{
+        text-align:left;
+        padding-left:70px
+    }
+    .counter-wrap .col-lg-4:last-child{
+        margin-top:50px
+    }
+    .projects-carousel .owl-nav div,.service-carousel .owl-nav div{
+        left:0
+    }
+    .projects-carousel .owl-nav div.owl-next,.service-carousel .owl-nav div.owl-next{
+        right:0
+    }
+    .work-pro-item .number-line{
+        display:none
+    }
+    .section-heading h2{
+       
+     line-height:26px;
+     font-size: 33px;
+    }
+    .cta-content h2{
+        font-size:36px
+    }
+}
+@media all and (min-width:480px) and (max-width:768px){
+}
+@media all and (max-width:767px){
+    
+    .page-content p {
+        color: #ddd;
+        padding-left: 1px;
+        padding-right: 1px;
+        font-weight: 500;
+    font-size: 16px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: -0.015em;
+    }
+    .page-content h2 {
+        color: #fff;
+        font-size: 80px;
+        padding-top: 40px;
+        font-weight: 600;
+    }
+    .content-info .texting{
+        text-align: justify;
+        color: #000;
+        font-size: 25px;
+    }
+    .footer-section p a{
+        font-size: 15px;
+        font-weight: 700;
+        color: #6d6dac;
+        margin: 0;
+        font-family: 'Montserrat', sans-serif;
+    }
+   
+    .slider-content-wrap {
+		height: 400px;
+		font-size: 100px;
+		color: #fff;
+	}
+	 .dl-slider .dl-caption.big .free {
+		padding-top: 15px;
+		font-size: 41px;
+        height: 100px;
+		padding-right: 200px;
+		align-content: center;
+		
+	}
+	.dl-slider .dl-caption.big .notfree {
+		padding-top: 28px;
+		font-size: 36px;
+        height: 100px;
+		padding-right: 200px;
+		align-content: center;
+	}
+	
+	.dl-slider .dl-caption.small br {
+		display: none
+	}
+	.dl-slider .dl-caption.small .notfree {
+	font-family: 'Montserrat', sans-serif;
+	letter-spacing: -.2px;
+    text-align:justify;
+	color: #fff;
+    width: 300px;
+	padding-top: 30px;
+}
+.dl-slider .dl-btn-group {
+	margin-top: 18px
+}
+.dl-slider .dl-btn {
+	line-height: 30px;
+	width: -20px;
+	padding: 0 35px;
+	font-size: 12px
+
+
+}
+
+    .subscribe-form .submit-btn {
+        background-color: #ea5b24;
+        font-family: 'Montserrat', sans-serif;
+        text-transform: uppercase;
+        color: #fff;
+        font-size: 12px;
+        border-radius: 8px;
+        line-height: 40px;
+        font-weight: 600;
+        letter-spacing: .5px;
+        border-radius: 6px;
+        width: 90px;
+        height: 40px;
+        position: absolute;
+        top: 0;
+        right: 0;
+        cursor: pointer
+    }
+    .uppercase{
+        padding-top: 0px;
+    }
+    .signup-heading span {
+        display: block;
+        text-align: center;
+        font-size: 18px;
+        color:#193966;
+        font-weight: 500;
+        letter-spacing: 0;
+        font-family: 'Montserrat', sans-serif;
+        position: relative;
+        margin-bottom: 10px;
+        z-index: 1
+    }
+    .subscribe-form .form-input {
+        border: 2px solid #ea5b24;
+    
+        height: 40px;
+        padding: 10px;
+        width: 75%;
+        border-radius: 6px
+    }
+    body,p{
+        font-size:12px;
+        line-height:22px
+    }
+    h1{
+        font-size:30px
+    }
+    h2{
+        /* font-size:22px */
+        padding-bottom: 22px;
+    }
+    h3{
+        font-size:16px
+    }
+    p br{
+        display:none
+    }
+    .padding{
+        padding:30px 0
+    }
+    .xs-padding{
+        padding:15px
+    }
+    .page-header{
+        height:250px
+    }
+    .page-content h2{
+        font-size:28px;
+        margin:0
+    }
+    .about-content h2{
+        font-size:24px;
+        line-height:36px
+    }
+    .cta-content h2{
+        font-size:28px;
+        line-height:1.2
+    }
+    .error-content{
+        display:block
+    }
+    .error-content .error-info h2{
+        font-size:120px;
+        line-height:120px;
+        margin-bottom:30px
+    }
+    .error-content .error-info a{
+        display:block
+    }
+    .contact-form .form-group .col-sm-6:first-child{
+        margin-bottom:15px
+    }
+    .contact-info h2{
+        line-height:28px
+    }
+    .sidebar-wrap{
+        padding-left:0
+    }
+    .blog-single-content h2 a{
+        font-size:22px;
+        line-height:28px
+    }
+    .blog-single-content h2{
+        line-height:28px
+    }
+    blockquote p{
+        line-height:32px
+    }
+    .work-pro-item{
+        padding:0 30px
+    }
+    .service-content h2{
+        line-height:28px
+    }
+    .service-section.section-2{
+        padding-bottom:60px
+    }
+    .services-list .offset-top{
+        transform:translateY(0)
+    }
+    #scroll-to-top{
+        width:35px;
+        height:35px;
+        line-height:35px;
+        bottom:20px;
+        right:20px
+    }
+    .projects-section .col-lg-4.text-right{
+        text-align:left!important
+    }
+    .projects-carousel{
+        margin-top:40px
+    }
+    .project-single-carousel{
+        margin-bottom:40px
+    }
+    .project-single-content{
+        padding-left:0
+    }
+}
+@media all and (max-width:580px){
+    .subscribe-form{
+        width:100%
+    }
+    .counter-wrap .col-lg-4:first-child{
+        margin-bottom:50px
+    }
+    .counter-content{
+        text-align:center;
+        padding-left:0
+    }
+    .testi-item .fa-quote-right{
+        display:none
+    }
+}
+@media all and (max-width:420px){
+}
+@media all and (max-width:380px){
+}
